@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PathList>
+    <PathDetail enabled="true">
+        <name>小明</name>
+        <age>18</age>
+	    <gender>男</gender>
+    </PathDetail>
+    <PathDetail enabled="true">
+        <name>小红</name>
+        <age>18</age>
+	    <gender>女</gender>
+    </PathDetail>
+</PathList>
